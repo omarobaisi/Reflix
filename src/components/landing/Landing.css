@@ -1,0 +1,12 @@
+.selectUser {
+    margin-top: 100px;
+}
+
+.landing {
+    text-align: center;
+}
+
+.Users {
+    display: flex;
+    justify-content: space-around;
+}

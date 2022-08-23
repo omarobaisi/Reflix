@@ -1,0 +1,13 @@
+.user-link {
+    color: black;
+    background-color: red;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+    border-radius: 8px;
+    margin: 20px;
+    margin-top: 50px;
+}

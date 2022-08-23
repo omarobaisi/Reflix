@@ -1,0 +1,30 @@
+body {
+    background-color: #141414;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: 200ms ease-in-out;
+}
+
+.logo {
+    color: #5ADBFB;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.nav-link:hover {
+    color: #5ADBFB;
+}
